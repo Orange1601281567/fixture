@@ -7,7 +7,7 @@
 ## 涉及内容
 springboot spring security mybatis-plus 
 
-## 访问地址
+## 接口访问地址
 localhost:9083/fixture/doc.html
   
 ## 功能简介
@@ -23,7 +23,7 @@ localhost:9083/fixture/doc.html
 管理员用户列表的增删改查
 
 ### 菜单管理
-管理员可对菜单进行增删改查操作(由于技术有限,只能做成二级菜单)
+管理员可对菜单进行增删改查操作
 
 ### 日志管理
 管理员查看用户的所有操作具体信息(通过切面aop的方式实现)
